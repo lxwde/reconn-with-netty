@@ -1,5 +1,7 @@
 # reconn-with-netty
+netty reconnect re-connect 
 a lightweight re-connectable server/client demo with netty
+
 
 mvn install
 
