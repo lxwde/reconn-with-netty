@@ -1,7 +1,7 @@
 # reconn-with-netty
 netty / reconnect / heartbeat 
 
-a lightweight re-connectable server/client demo with netty
+a lightweight reconnectable server/client demo with netty
 
 
 mvn install
