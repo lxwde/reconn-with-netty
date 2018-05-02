@@ -1,5 +1,5 @@
 # reconn-with-netty
-netty/reconnect/re-connect/heartbeat 
+netty / reconnect / heartbeat 
 
 a lightweight re-connectable server/client demo with netty
 
